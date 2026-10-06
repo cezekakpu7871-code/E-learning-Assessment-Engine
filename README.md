@@ -15,4 +15,4 @@ An automated test evaluation system built in Python designed to grade digital mu
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/elearning-assessment-engine.git](https://github.com/YOUR_USERNAME/elearning-assessment-engine.git)
+   git clone [https://github.com/cezekakpu7871-code/elearning-assessment-engine.git](https://github.com/cezekakpu7871-code/elearning-assessment-engine.git)
